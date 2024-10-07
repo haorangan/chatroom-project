@@ -1,0 +1,25 @@
+.hidden {
+    display: none
+}
+
+#container {
+    display:flex;
+    justify-content: left;
+    background-color: aquamarine;
+    margin-left:15%;
+    margin-right:15%;
+    padding-left: 10px;
+}
+
+#heading {
+    display:flex;
+    justify-content: center;
+    background-color: bisque;
+    margin-left:15%;
+    margin-right:15%;
+}
+
+#room p {
+    overflow-wrap: break-word;
+    hyphens: manual;
+}
